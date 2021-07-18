@@ -3,8 +3,8 @@
 configure 
 	to 	
 	{ 
-	 NIXOS-PLASM/
-	 NIXOS-PLASM/
+	 NIXOS-PLASM
+	or 
 	 nix-store.squashfs
 
 }
