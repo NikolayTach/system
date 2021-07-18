@@ -1,8 +1,8 @@
-
-{pkgs, ...}
+{pkgs, ...}:
 
 configure 
-to /nix.
+to /nix. {
 	./NIXOS-PLASM/
 	./NIXOS-PLASM/nix-store.squashfs
 
+}
