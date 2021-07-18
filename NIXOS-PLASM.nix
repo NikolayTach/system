@@ -2,8 +2,8 @@
 
 configure 
 	to 	
-	{ ./nix 
-	 ./NIXOS-PLASM/
-	 ./NIXOS-PLASM/nix-store.squashfs
+	{ 
+	 NIXOS-PLASM/
+	 NIXOS-PLASM/nix-store.squashfs
 
 }
